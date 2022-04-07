@@ -1,0 +1,21 @@
+{
+    "Profile":"Perfil",
+    "Profile Information":"Mi Informacion",
+    "Update your account profile information and email address.":"Porfavor, asegurate de mantener actualizado tu perfil" ,
+    "Photo":"Foto" ,
+    "Select A New Photo":"Seleccione una nueva foto" ,
+    "Remove Photo":"Eliminar foto" ,
+    "Email":"Correo" ,
+    "Saved.":"Guardado." ,
+    "Save":"Guardar",
+    "Update Password":"Actualizar Contraseña",
+    "Ensure your account is using a long, random password to stay secure.":"Asegurate de usar una contraseña larga y aleatorea",
+    "Current Password":"Contraseña Actual",
+    "New Password":"Nueva Contraseña",
+    "Confirm Password":"Confirmar Contraseña",
+    "Users":"Usuarios",
+    "Manage Account":"Administrador de Cuenta",
+    "Dashboard":"Inicio",
+    "Delete Account":"Eliminar Cuenta",
+    "Logout Other Browser Sessions": "Cerrar Sesion de todos los navegadores"
+}
